@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">holamundo</string>
+    <string name="botonAceptar">OK</string>
+    <string name="txtEmail">E-mail</string>
+    <string name="txxPassword">Password</string>
+    <string name="txtvista2id">textView2</string>
+    <string name="btnAtras">Back</string>
+
+</resources>
